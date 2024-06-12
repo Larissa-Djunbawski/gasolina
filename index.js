@@ -1,3 +1,3 @@
 let preco 
 
-console.log("Qual é o preço? ")
+console.log("Qual é o preço?? ")
